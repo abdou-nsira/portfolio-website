@@ -8,7 +8,7 @@ This is my personal portfolio website, built using **HTML**, **CSS**, and **Java
 
 ## 📸 Preview
 
-![screenshot](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)
+![screenshot](screenshot.jpg)
 
 ## 📂 Features
 
